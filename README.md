@@ -40,7 +40,7 @@ see the License.md file for more details
 ## How to Contribute To This Application
 
 ## Contact 
-Mbiwan M Tarh
+Mbiwan M Tarh  [LinkedIn](https://www.linkedin.com/in/mbiwantarh/)  [Twitter](https://twitter.com/MbiwanT)  
 
 ## Acknowledgements
 This Project was created and is been developed as part of the C# challenge from @IamTimCorey
