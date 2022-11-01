@@ -7,10 +7,10 @@ This Project gets/Returns the local date and time of the user around the world a
 
 ## RoadMap
 These are the things I would like to accomplish with this application
-- [x] ** Minimum Viable Product MVP **
+- [x] Minimum Viable Product MVP 
   - [ ] Get / Return the local date and time of the user of this application wherever he or she might be in the world
   - [x] Account for viewing the local date and time of different places in the world with respect to the user's date and time
-- [ ] **NIce To Have**
+- [ ] NIce To Have
 	- [ ] Console Application 
 	- [ ] Class Library
 	- [ ] Web Version - Blazor Server
